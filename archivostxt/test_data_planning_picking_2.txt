@@ -1,0 +1,7 @@
+﻿dependencyCode,day,month,year,slotStartTime,slotDuration,totalPluPickingCapacity,numberOfPickers,processed
+880,3,10,2019,9:00:00,60,8,2,0
+880,3,10,2019,10:00:00,60,8,2,0
+880,3,10,2019,11:00:00,60,8,2,0
+880,4,10,2019,9:00:00,60,8,2,0
+880,4,10,2019,10:00:00,60,8,2,0
+880,4,10,2019,11:00:00,60,8,2,0

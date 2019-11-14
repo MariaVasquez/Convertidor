@@ -1,0 +1,3 @@
+﻿dependencyCode,day,month,year,routeId,vrpExecutionTime,departureTime,departureTimeVrp,slotStartTime,arrivalTime,totalDuration,vehicleType,operator,vehicleCapacity,totalOrders,slotDuration,numberOfSlots,ordersQtySlot1,ordersQtySlot2,ordersQtySlot3,ordersQtySlot4,ordersQtySlot5,ordersQtySlot6,ordersQtySlot7,ordersQtySlot8,ordersQtySlot9,ordersQtySlot10,ordersQtySlot11,ordersQtySlot12,active,processed
+880,27,9,2019,880-20190927-R2-10h-v1,8:20:00,8:30:00,8:53:00,9:00:00,11:10:00,137,TRUCK,LTSA,10,6,60,2,3,3,0,0,0,0,0,0,0,0,0,0,1,0
+880,27,9,2019,880-20190927-R2-11h-v2,9:20:00,9:30:00,9:53:00,10:00:00,12:10:00,137,TRUCK,LTSA,10,6,60,2,3,3,0,0,0,0,0,0,0,0,0,0,1,0

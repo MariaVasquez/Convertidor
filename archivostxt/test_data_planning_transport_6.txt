@@ -1,0 +1,7 @@
+﻿dependencyCode,day,month,year,routeId,vrpExecutionTime,departureTime,departureTimeVrp,slotStartTime,arrivalTime,totalDuration,vehicleType,operator,vehicleCapacity,totalOrders,slotDuration,numberOfSlots,ordersQtySlot1,ordersQtySlot2,ordersQtySlot3,ordersQtySlot4,ordersQtySlot5,ordersQtySlot6,ordersQtySlot7,ordersQtySlot8,ordersQtySlot9,ordersQtySlot10,ordersQtySlot11,ordersQtySlot12,active,processed
+880,3,10,2019,880-20191002-R27-10h-v0,8:20:00,8:30:00,8:53:00,9:00:00,11:10:00,136,TRUCK,LTSA,8,6,60,3,3,3,2,0,0,0,0,0,0,0,0,0,1,0
+880,3,10,2019,880-20191002-R27-10h-v1,9:20:00,9:30:00,9:53:00,10:00:00,12:10:00,137,BIKE,LTSA,8,6,60,2,3,3,0,0,0,0,0,0,0,0,0,0,1,0
+880,3,10,2019,880-20191002-R28-11h-v2,10:20:00,10:30:00,10:53:00,11:00:00,13:10:00,137,TRUCK,LTSA,8,6,60,2,3,3,0,0,0,0,0,0,0,0,0,0,1,0
+880,4,10,2019,880-20191003-R27-10h-v2,11:20:00,11:30:00,11:53:00,12:00:00,14:10:00,137,TRUCK,LTSA,8,6,60,3,3,3,3,0,0,0,0,0,0,0,0,0,1,0
+880,4,10,2019,880-20191003-R27-10h-v3,12:20:00,12:30:00,12:53:00,13:00:00,15:10:00,137,BIKE,LTSA,8,6,60,3,3,3,2,0,0,0,0,0,0,0,0,0,1,0
+880,4,10,2019,880-20191003-R28-11h-v3,13:20:00,13:30:00,13:53:00,14:00:00,16:10:00,137,TRUCK,LTSA,8,6,60,2,3,3,0,0,0,0,0,0,0,0,0,0,1,0
